@@ -1,0 +1,25 @@
+.panda-background-info {
+  background-color: #fceae7;
+}
+.carousel-item {
+  padding: 20px 40px;
+}
+.catagories img {
+  width: 100px;
+}
+.watch-background {
+  background-color: #ffa500;
+}
+.bag-background {
+  background-color: #d971d6;
+}
+.shoes-background {
+  background-color: #1100ff;
+}
+.panda-buynow {
+  background-image: linear-gradient(to bottom, #ff589b 0%, #ff136f 100%);
+  color: #fff;
+  border: none;
+  border-radius: 8px;
+  padding: 9px 25px;
+}
